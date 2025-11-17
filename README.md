@@ -1,7 +1,6 @@
 # terraform-multicloud-infra
 
-
-![Uploading Gemini_Generated_Image_2lxt7c2lxt7c2lxt.png…]()
+<img width="1344" height="1070" alt="Gemini_Generated_Image_2lxt7c2lxt7c2lxt" src="https://github.com/user-attachments/assets/7ce90e3a-0a86-452b-959a-cae2e28a0b14" />
 
 
 # 🚀 Multi-Cloud Infrastructure Provisioning with Terraform
@@ -264,6 +263,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ⭐ If this project helped you, please give it a star!
 
 **#DevOps #Terraform #MultiCloud #IaC #AWS #Azure #GCP #CloudComputing**
+
 
 
 
