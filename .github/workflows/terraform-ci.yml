@@ -3,11 +3,11 @@ name: Terraform CI/CD
 on:
   push:
     branches:
-      - main
+      #- main
       - develop
   pull_request:
     branches:
-      - main
+      #- main
       - develop
   workflow_dispatch:
 
@@ -218,4 +218,5 @@ jobs:
         uses: infracost/actions/comment@v1
         with:
           path: /tmp/infracost.json
+
           behavior: update
