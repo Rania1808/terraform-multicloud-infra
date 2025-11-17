@@ -24,8 +24,7 @@ Complete Infrastructure as Code (IaC) solution for deploying high-availability m
 
 ## 🏗️ Architecture
 
-
-<img width="4375" height="2813" alt="architecture_diagram_svg" src="https://github.com/user-attachments/assets/6d0084d7-cbf1-4a17-922a-1963b2f5b55a" />
+<img width="1427" height="897" alt="png" src="https://github.com/user-attachments/assets/24ec561b-5c32-4fbe-a7c0-f99e91019283" />
 
 
 
@@ -261,4 +260,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ⭐ If this project helped you, please give it a star!
 
 **#DevOps #Terraform #MultiCloud #IaC #AWS #Azure #GCP #CloudComputing**
+
 
