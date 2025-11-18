@@ -12,7 +12,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/terraform-multicloud-infra.git
+git clone https://github.com/Rania1808/terraform-multicloud-infra.git
 cd terraform-multicloud-infra
 ```
 
